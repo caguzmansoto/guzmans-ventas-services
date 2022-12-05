@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app-config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-eureka-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-producto-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-venta-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-zuul-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-zuul-service2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-servicio-zuul-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>
